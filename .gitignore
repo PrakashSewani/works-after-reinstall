@@ -1,0 +1,5 @@
+/target
+/works-after-reinstall-bundle
+
+# Learned preferences are machine-local; skills and agents are shared
+/.commandcode/taste/
